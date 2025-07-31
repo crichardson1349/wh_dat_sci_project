@@ -1,0 +1,71 @@
+Mission,Deployment,Games,"Avg, Winner","Avg, Loser",Margin,"Avg, Go 1st","Avg, Go 2nd",FTA
+Burden Of Trust,All Games,664.0,30.59,14.3,16.29,21.8,23.09,-1.3
+Burden Of Trust,Dawn Of War,148.0,31.53,13.53,18.0,22.07,22.9,-0.82
+Burden Of Trust,Hammer And Anvil,140.0,30.07,13.46,16.61,21.9,21.63,0.27
+Burden Of Trust,Crucible Of Battle,134.0,29.49,14.09,15.4,20.24,23.27,-3.03
+Burden Of Trust,Search And Destroy,98.0,31.94,14.53,17.41,21.73,24.82,-3.08
+Burden Of Trust,Tipping Point,86.0,32.21,17.35,14.86,26.0,23.58,2.42
+Burden Of Trust,Sweeping Engagement,58.0,27.31,13.9,13.41,18.31,23.07,-4.76
+Hidden Supplies,All Games,4281.0,35.66,16.08,19.58,26.4,25.33,1.06
+Hidden Supplies,Search And Destroy,1936.0,35.8,16.47,19.33,26.96,25.3,1.66
+Hidden Supplies,Crucible Of Battle,1046.0,35.45,15.97,19.48,25.93,25.43,0.5
+Hidden Supplies,Hammer And Anvil,1023.0,35.75,15.58,20.17,26.13,25.19,0.95
+Hidden Supplies,Tipping Point,137.0,35.91,17.01,18.91,26.68,26.5,0.18
+Hidden Supplies,Dawn Of War,86.0,34.87,14.07,20.8,23.94,25.0,-1.06
+Hidden Supplies,Sweeping Engagement,53.0,33.21,14.62,18.58,23.11,24.72,-1.6
+Linchpin,All Games,6261.0,34.86,18.78,16.08,27.11,26.53,0.58
+Linchpin,Tipping Point,2293.0,35.05,19.2,15.85,27.45,26.8,0.65
+Linchpin,Search And Destroy,2077.0,35.41,19.37,16.05,27.62,27.19,0.43
+Linchpin,Dawn Of War,1342.0,34.33,17.62,16.71,26.09,25.8,0.29
+Linchpin,Crucible Of Battle,235.0,33.83,19.28,14.55,26.63,26.47,0.17
+Linchpin,Hammer And Anvil,159.0,33.12,15.85,17.27,24.75,24.26,0.49
+Linchpin,Sweeping Engagement,155.0,32.54,17.19,15.35,27.25,22.52,4.73
+Purge The Foe,All Games,5068.0,41.99,27.95,14.03,34.75,35.2,-0.45
+Purge The Foe,Crucible Of Battle,2412.0,42.75,28.77,13.98,35.29,36.23,-0.94
+Purge The Foe,Hammer And Anvil,1513.0,42.15,27.86,14.29,34.85,35.17,-0.32
+Purge The Foe,Dawn Of War,754.0,40.2,25.91,14.29,33.46,32.66,0.81
+Purge The Foe,Search And Destroy,159.0,40.15,26.4,13.75,33.34,33.19,0.15
+Purge The Foe,Tipping Point,126.0,41.56,29.44,12.11,36.13,34.81,1.32
+Purge The Foe,Sweeping Engagement,104.0,38.23,25.64,12.59,30.27,33.57,-3.3
+Scorched Earth,All Games,4908.0,39.39,24.82,14.58,32.33,31.88,0.45
+Scorched Earth,Tipping Point,1604.0,39.53,25.29,14.24,32.51,32.34,0.17
+Scorched Earth,Crucible Of Battle,1599.0,39.07,24.55,14.52,32.12,31.48,0.64
+Scorched Earth,Search And Destroy,1380.0,40.18,25.32,14.87,32.98,32.51,0.48
+Scorched Earth,Dawn Of War,115.0,35.74,21.39,14.35,28.39,28.74,-0.35
+Scorched Earth,Hammer And Anvil,113.0,38.01,21.9,16.11,30.0,29.91,0.09
+Scorched Earth,Sweeping Engagement,97.0,37.22,21.78,15.43,30.91,28.04,2.87
+Supply Drop,All Games,3343.0,29.71,10.16,19.55,19.87,19.99,-0.13
+Supply Drop,Tipping Point,1329.0,30.02,10.29,19.72,19.66,20.64,-0.98
+Supply Drop,Hammer And Anvil,1074.0,29.2,8.84,20.37,19.3,18.72,0.59
+Supply Drop,Sweeping Engagement,611.0,30.05,11.57,18.48,20.64,21.0,-0.36
+Supply Drop,Crucible Of Battle,128.0,29.87,10.63,19.24,20.84,19.61,1.23
+Supply Drop,Search And Destroy,101.0,30.87,11.33,19.54,21.68,20.47,1.22
+Supply Drop,Dawn Of War,100.0,27.63,12.14,15.49,20.78,18.96,1.82
+Take And Hold,All Games,7874.0,39.83,24.68,15.15,32.91,31.59,1.32
+Take And Hold,Tipping Point,3353.0,40.09,25.08,15.01,33.38,31.78,1.59
+Take And Hold,Search And Destroy,2126.0,40.79,25.78,15.02,33.71,32.84,0.87
+Take And Hold,Hammer And Anvil,1681.0,38.58,23.04,15.54,31.24,30.36,0.88
+Take And Hold,Dawn Of War,321.0,38.2,21.92,16.28,31.33,28.79,2.54
+Take And Hold,Crucible Of Battle,249.0,39.05,24.15,14.9,32.96,30.19,2.77
+Take And Hold,Sweeping Engagement,144.0,39.07,25.68,13.39,33.12,31.6,1.52
+Terraform,All Games,4598.0,38.42,23.06,15.36,31.13,30.34,0.79
+Terraform,Crucible Of Battle,2289.0,38.49,23.56,14.93,31.16,30.88,0.28
+Terraform,Sweeping Engagement,1681.0,38.89,23.13,15.76,31.55,30.46,1.1
+Terraform,Tipping Point,175.0,37.51,21.1,16.41,30.36,28.23,2.13
+Terraform,Search And Destroy,166.0,37.77,22.93,14.83,31.8,28.93,2.87
+Terraform,Dawn Of War,159.0,36.08,19.98,16.1,29.4,26.69,2.71
+Terraform,Hammer And Anvil,128.0,35.83,19.79,16.04,27.28,28.4,-1.12
+The Ritual,All Games,290.0,37.2,20.29,16.92,29.64,27.91,1.73
+The Ritual,Hammer And Anvil,66.0,40.97,22.71,18.26,31.52,32.18,-0.67
+The Ritual,Crucible Of Battle,61.0,39.26,23.1,16.16,30.98,31.54,-0.56
+The Ritual,Sweeping Engagement,50.0,32.5,15.0,17.5,24.0,23.5,0.5
+The Ritual,Search And Destroy,43.0,37.21,20.0,17.21,33.14,24.07,9.07
+The Ritual,Dawn Of War,39.0,32.95,17.56,15.38,25.9,24.74,1.15
+The Ritual,Tipping Point,31.0,38.06,21.94,16.13,31.94,28.06,3.87
+Unexploded Ordnance,All Games,164.0,27.54,10.26,17.29,18.83,19.01,-0.18
+Unexploded Ordnance,Search And Destroy,35.0,30.03,9.4,20.63,19.26,20.17,-0.91
+Unexploded Ordnance,Dawn Of War,32.0,27.22,10.88,16.34,21.19,17.06,4.13
+Unexploded Ordnance,Hammer And Anvil,27.0,21.11,5.48,15.63,14.22,12.37,1.85
+Unexploded Ordnance,Sweeping Engagement,26.0,32.54,18.73,13.81,23.23,27.81,-4.58
+Unexploded Ordnance,Crucible Of Battle,23.0,29.13,9.78,19.35,21.78,17.43,4.35
+Unexploded Ordnance,Tipping Point,21.0,24.24,6.9,17.33,11.76,19.38,-7.62
